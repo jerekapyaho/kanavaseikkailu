@@ -17,4 +17,4 @@ Ohjelma käyttää vain BASIC-kielen tekoaikana vakiintuneita
 käskyjä, joten se toiminee jotenkin myös nykyisissä BASIC-tulkeissa, mutta ainakin
 vanhojen BASIC-tulkkien emulaattoreissa. Tämä versio
 on testattu [PC-BASIC](https://robhagemans.github.io/pcbasic/index.html)-tulkilla, joka on
-tehty Python-ohjelmointikielellä. (Ainakin muissa ympäristöissä kuin Linuxissa kannattaa tehdä virtuaaliympäristö, aktivoia se ja asentaa sitten PC-BASIC käyttäen pip-ohjelmaa).
+tehty Python-ohjelmointikielellä. (Ainakin muissa ympäristöissä kuin Linuxissa kannattaa tehdä virtuaaliympäristö, aktivoida se ja asentaa sitten PC-BASIC käyttäen pip-ohjelmaa).
